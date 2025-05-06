@@ -3,9 +3,10 @@
 The Flux Consistent Characters workflow, created by Mickmumpitz, is a powerful ComfyUI tool that maintains the consistency of AI-generated characters across multiple outputs. Ideal for AI-driven cinematics, children’s books, or any project that requires stable character appearances, this Flux-based workflow simplifies the process of achieving consistent character appearances, reducing the need for multiple prompts and fine-tuning. 
 Mickmumpitz developed the Flux Consistent Characters workflow and shared a detailed tutorial on his YouTube channel. While the workflow and environment setup are provided here for convenience, Mickmumpitz deserves full credit for creating this effective Flux-based Consistent Characters solution. Install Custom Node Request [FREE WORKFLOWS] Create your own CONSISTENT characters with AI! Free stream consistent characters. 
 
+Attachments
 https://www.patreon.com/posts/free-workflows-113743435
 
-
+----------------------------------------------------------------------------------------------------------------------------------
 [FREE GUIDE] Mickmumpitz Character Sheets with FLUX and SDXL
 
 1 Install ComfyUI
